@@ -1,0 +1,13 @@
+/*#descricao-xbox, #descricao-mac {
+    background-color: orange;
+}
+Forma menos verbosa*/
+
+.descricao-produto {
+    background-color: orange;
+    color: aliceblue;
+}
+
+.promocao {
+    border: solid 10px green;
+}

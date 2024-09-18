@@ -1,0 +1,21 @@
+
+
+
+/*h1{
+    display: inline;
+}
+
+p{
+    display: inline;
+} 
+*/
+
+
+span {
+    color: red;
+    background-color: cornflowerblue;
+    /*display: block;*/
+
+    width: 200px;
+    height: 200px;
+}

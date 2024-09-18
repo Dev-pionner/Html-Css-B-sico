@@ -1,0 +1,40 @@
+p{
+    /* FORMA COLOCANDO CADA LETERAL SEPARADA */
+   /* margin-top: 30px;
+   margin-bottom: 30px;
+   margin-left: 30px;
+   margin-right: 30px; */
+   
+
+    /* FORMA COLOCANDO O MESMO VALOR NO TOPO E NAS LATERIAS */
+   /* margin: 30px 15px; */
+
+
+    /* ESSA SERIA A FORMA COLOCANDO O MESMO VALOR DE TODOS OS LADOS */
+   margin: 30px 15px;
+   padding: 20px 5px 19px 12px;
+   background-color: aquamarine;
+   border-style: solid ;
+   border-width: 20px;
+   border-color: red;
+
+   /*  */
+   border: 20px solid red;
+}
+
+h1{
+    /* Forma mais verbosa do codigo
+    border-style: solid ;
+    border-width: 20px;
+    border-top-color: green;
+    border-bottom-color: orange;
+    border-left-color: blueviolet;
+    border-right-color: aqua; */
+
+
+    /* Formas mais limpa do codigo */
+
+    border-style: solid;
+    border-width: 20px;
+    border-color: green aqua orange blueviolet;
+ }
